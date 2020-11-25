@@ -1,0 +1,21 @@
+me(X,lyNhanTong).
+hauDue(lyThanhTong, leDaiHanh).
+ngoaiThich_chuyen_quyen(doAnhVu,lyThanTong).
+ngoaiThich_chuyen_quyen(doAnhVu,lyAnhTong).
+toTien(lyHueTong,tranThanhTong).
+cha(lyThaiTo,X).
+gianThan(phamDu, lyCaoTong).
+trungThan(lyThuongKiet,lyNhanTong).
+cungPhe(dongChinhVuong,vuDucVuong).
+ngoaiThich(damDiMong).
+con(LyThanTong, lyNhanTong).
+thaiHau(doPhuNhan).
+anhChiEmRuot(lyNhanTong,minhNhanVuong).
+thanTu(thanThieuThai,lyThaiTong).
+phoMa(thanCanhPhuc,lyCaoTong).
+vo(X,lyNhanTong).
+chau(vuThanhVuong, lyHueTong).
+hoangHau(kimThienHoangHau,lyThanhTong).
+kiemCheQuyenLuc(toHienThanh,doAnDi).
+phanNghich(dongChinhVuong, lyThaiTong).
+keThu(thanLoi,lyCongTin).

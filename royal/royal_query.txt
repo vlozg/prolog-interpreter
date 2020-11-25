@@ -1,0 +1,20 @@
+mother(X, prince_andrew).
+niece(X, princess_anne).
+uncle(timothy_laurence,james_viscount_severn).
+aunt(X, princess_charlotte).
+grandmother(princess_diana,prince_george).
+grandfather(X,mia_grace_tindall).
+nephew(X,sophie_rhys_jones).
+grandson(X,prince_charles).
+grandchild(X,prince_phillip).
+brother(X,zara_phillips).
+uncle(X,princess_eugenie).
+granddaughter(X,queen_elizabeth_II).
+father(X,isla_phillips).
+father(mike_tindall,savannah_phillips).
+wife(X,prince_charles).
+husband(mark_phillips,princess_anne).
+husband(X,autumn_kelly).
+sibling(X, lady_louise_mountbatten_windsor).
+sibling(X, princess_charlotte).
+wife(queen_elizabeth_II, mike_tindall).

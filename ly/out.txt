@@ -1,0 +1,73 @@
+?- me(X, lyNhanTong)
+X: nguyenPhiYLan
+
+?- hauDue(lyThanhTong, leDaiHanh)
+True
+
+?- ngoaiThich_chuyen_quyen(doAnhVu, lyThanTong)
+True
+
+?- ngoaiThich_chuyen_quyen(doAnhVu, lyAnhTong)
+True
+
+?- toTien(lyHueTong, tranThanhTong)
+True
+
+?- cha(lyThaiTo, X)
+X: lyThaiTong
+X: khaiQuocVuong
+X: uyMinhHau
+X: vuDucVuong
+X: dongChinhVuong
+X: anQuocCongChua
+X: linhNamCongChua
+
+?- gianThan(phamDu, lyCaoTong)
+True
+
+?- trungThan(lyThuongKiet, lyNhanTong)
+True
+
+?- cungPhe(dongChinhVuong, vuDucVuong)
+True
+
+?- ngoaiThich(damDiMong)
+True
+
+?- con(LyThanTong, lyNhanTong)
+False
+
+?- thaiHau(doPhuNhan)
+True
+
+?- anhChiEmRuot(lyNhanTong, minhNhanVuong)
+True
+
+?- thanTu(thanThieuThai, lyThaiTong)
+True
+
+?- phoMa(thanCanhPhuc, lyCaoTong)
+False
+
+?- vo(X, lyNhanTong)
+X: lanAnhHoangHau
+X: khamThienHoangHau
+X: chanBaoHoangHau
+X: thanhCucHoangHau
+X: chieuThanhHoangHau
+
+?- chau(vuThanhVuong, lyHueTong)
+True
+
+?- hoangHau(kimThienHoangHau, lyThanhTong)
+False
+
+?- kiemCheQuyenLuc(toHienThanh, doAnDi)
+True
+
+?- phanNghich(dongChinhVuong, lyThaiTong)
+True
+
+?- keThu(thanLoi, lyCongTin)
+True
+

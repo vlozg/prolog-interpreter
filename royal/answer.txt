@@ -1,0 +1,76 @@
+?- mother(X, prince_andrew)
+X: queen_elizabeth_II
+
+?- niece(X, princess_anne)
+X: princess_beatrice
+X: princess_eugenie
+X: lady_louise_mountbatten_windsor
+
+?- uncle(timothy_laurence, james_viscount_severn)
+True
+
+?- aunt(X, princess_charlotte)
+False
+
+?- grandmother(princess_diana, prince_george)
+True
+
+?- grandfather(X, mia_grace_tindall)
+X: captain_mark_phillips
+
+?- nephew(X, sophie_rhys_jones)
+X: prince_william
+X: prince_harry
+X: peter_phillips
+
+?- grandson(X, prince_charles)
+X: prince_george
+
+?- grandchild(X, prince_phillip)
+X: prince_william
+X: prince_harry
+X: peter_phillips
+X: zara_phillips
+X: princess_beatrice
+X: princess_eugenie
+X: james_viscount_severn
+X: lady_louise_mountbatten_windsor
+
+?- brother(X, zara_phillips)
+X: peter_phillips
+
+?- uncle(X, princess_eugenie)
+X: prince_charles
+X: prince_edward
+X: timothy_laurence
+
+?- granddaughter(X, queen_elizabeth_II)
+X: zara_phillips
+X: princess_beatrice
+X: princess_eugenie
+X: lady_louise_mountbatten_windsor
+
+?- father(X, isla_phillips)
+X: peter_phillips
+
+?- father(mike_tindall, savannah_phillips)
+False
+
+?- wife(X, prince_charles)
+X: camilla_parker_bowles
+
+?- husband(mark_phillips, princess_anne)
+False
+
+?- husband(X, autumn_kelly)
+X: peter_phillips
+
+?- sibling(X, lady_louise_mountbatten_windsor)
+X: james_viscount_severn
+
+?- sibling(X, princess_charlotte)
+X: prince_george
+
+?- wife(queen_elizabeth_II, mike_tindall)
+False
+
